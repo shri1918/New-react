@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/New-react/static/css/main.16c6a27b.css",
+    "main.js": "/New-react/static/js/main.5167e865.js",
+    "static/media/boy.png": "/New-react/static/media/boy.3ad8ac44c189ee44f7ea.png",
+    "index.html": "/New-react/index.html",
+    "main.16c6a27b.css.map": "/New-react/static/css/main.16c6a27b.css.map",
+    "main.5167e865.js.map": "/New-react/static/js/main.5167e865.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.16c6a27b.css",
+    "static/js/main.5167e865.js"
+  ]
+}
